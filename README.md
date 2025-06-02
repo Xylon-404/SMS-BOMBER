@@ -16,7 +16,7 @@
 
 #### TOOL 1 STYLISH VERY DANGER
 ```python
-rm -rf ENCODE
+rm -rf SMS-BOMBER
 https://github.com/Xylon-404/SMS-BOMBER.git
 cd SMS-BOMBER
 python install.py
